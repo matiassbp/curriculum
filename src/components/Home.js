@@ -8,7 +8,7 @@ const Home = () => {
             <div className="max-w-2xl p-8 ">
                 {/* Parte superior */}
                 <div className="mb-8">
-                    <h1 className="text-4xl font-bold mb-2">Matías Benoni Peralta</h1>
+                    <h1 className="text-4xl font-bold mb-2">Matías Benoni Peralta.</h1>
                     <p className="text-lg mb-2">Ingeniero Civil en Computación e Informática.</p>
                     <p className=" text-base">+569 84282128 | matiasbenonip@gmail.com</p>
                 </div>
